@@ -1,0 +1,29 @@
+# name|run_case arguments   (al5: gen args; cc: gen kind w h seed doctype mono; job: gencups args copies options)
+al5-zero-1|al5 cmyk zero 1 1 1
+al5-zero-9|al5 cmyk zero 9 3 1
+al5-rand-100|al5 cmyk rand 100 7 2
+al5-rand-640|al5 cmyk rand 640 40 3
+al5-sparse-640|al5 cmyk sparse 640 40 4
+al5-blocks-640|al5 cmyk blocks 640 40 5
+al5-grad-640|al5 cmyk grad 640 40 6
+al5-photo-4800|al5 cmyk photo 4800 30 7
+al5-blocks-4800|al5 cmyk blocks 4800 60 8
+al5-zero-20000|al5 cmyk zero 4800 20 9
+al5-mono-rand|al5 mono rand 333 17 10
+al5-mono-sparse|al5 mono sparse 1000 40 11
+al5-mono-blocks|al5 mono blocks 1000 40 12
+al5-mono-photo|al5 mono photo 4800 30 13
+cc-normal|cc rand 512 64 20 Normal 0
+cc-photo|cc photo 512 64 21 Photo 0
+cc-presentation|cc rand 512 64 22 Presentation 0
+cc-web|cc blocks 512 64 23 Web 0
+cc-pop|cc grad 512 64 24 POP 0
+cc-off|cc rand 512 64 25 Off 0
+cc-mono|cc rand 512 64 26 Normal 1
+cc-mono-off|cc photo 512 64 27 Off 1
+job-default|job 1200 1600 3 30 1 PageSize=A4
+job-copies|job 1200 1600 2 31 3 PageSize=A4 Collate=False
+job-collate|job 1200 1600 2 32 2 PageSize=A4 Collate=True
+job-mono|job 1200 1600 3 33 1 XRColorMode=Black XRScreen2=Fineness
+job-options|job 1200 1600 3 34 1 XRDocumentType=Photo XRTonerSaver=True XRSkip=True XRTurnPage=True MediaType=LabelPaper XRColorDensityMagentaMid=+2
+job-letter|job 1250 1550 1 35 1 PageSize=Letter XRDocumentType=Off

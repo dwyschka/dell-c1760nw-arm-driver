@@ -1,0 +1,28 @@
+al5-zero-1|al5 cmyk zero 1 1 1|3659b89785c97cdacd877ab43559718217f37c93977709056371d020dce6c77e
+al5-zero-9|al5 cmyk zero 9 3 1|796c2303961d47ccfb4c6b32eb9101b671d61c61fb7385418017b3972363fec7
+al5-rand-100|al5 cmyk rand 100 7 2|8ab77457baba5eb402d30ed47e02bd78f314aa587ee4bb77826fc0ebb10c261c
+al5-rand-640|al5 cmyk rand 640 40 3|b600c024159b1476d2897f694854254e0303c07731d11759f29fe43b4efac64b
+al5-sparse-640|al5 cmyk sparse 640 40 4|bf387fb435744e3ffbaf64945d63ea9501ff1122f16fc2c6e5c17fbdcfafce58
+al5-blocks-640|al5 cmyk blocks 640 40 5|a9c5a483861d7a75f8a5e4f13f0cd239a09def60232bbe240f1205c3103004e9
+al5-grad-640|al5 cmyk grad 640 40 6|c3c1efbf542f4aa340c252311ddc851a57f33795b885ee2a1276075d2c659b8e
+al5-photo-4800|al5 cmyk photo 4800 30 7|597bac5fe34ec13d5211bdb5f93382bcc03276eafc14abfbbf965eed123cb5db
+al5-blocks-4800|al5 cmyk blocks 4800 60 8|27d0649b67479d69c67d5a41ee0ee1ee3558875e8ef4138e5000abec86458a45
+al5-zero-20000|al5 cmyk zero 4800 20 9|ef52bb5cb9af5782ef723015b63c87327f00fdfe877e2af9d3e5ba1ca074f467
+al5-mono-rand|al5 mono rand 333 17 10|5fbb798bd5342ddb8a2e41a901ef325711fee7c840c628dc22fc6c212248f05d
+al5-mono-sparse|al5 mono sparse 1000 40 11|2c48876d0e18287061dd3217f349ea15b5e1829d7d12cfd342865dcdc2f780d4
+al5-mono-blocks|al5 mono blocks 1000 40 12|8262df33d85839aa8e1add6ea95b9d08007c146bd777ec34c1e559f8283cd2e9
+al5-mono-photo|al5 mono photo 4800 30 13|ecc28c30e955ba9e1491cd0fc24e1a7e563577a6e83ea979e999ce59eca34ee7
+cc-normal|cc rand 512 64 20 Normal 0|b794fb75c4bcabe488f8b8030168abdfb85437de4bc3391b4a03c204e54c71df
+cc-photo|cc photo 512 64 21 Photo 0|f7992aed041c8b8098f7c788c7a2f0e6d4a84a6ee92532d95bee4a685be59c49
+cc-presentation|cc rand 512 64 22 Presentation 0|5140342b91c1f31703ed06acb1b9ef20bc9f204e9bdf2decea83b02083562f8a
+cc-web|cc blocks 512 64 23 Web 0|cb15c094fff0a74d0990a4cc28f851e98bd8ade747efdb677a5d1b08cf1fc911
+cc-pop|cc grad 512 64 24 POP 0|bdd67a26c6568d2f1ec1f78d240c54f419a02a27c971e0b64f471cfbf7ed4a74
+cc-off|cc rand 512 64 25 Off 0|3a33724be625b484375514e2c6ed1a44a0bd026b6758be2347b2f288dbab728b
+cc-mono|cc rand 512 64 26 Normal 1|585835a311d042c6bb7391f0f3864743c3a7042a909dd7946c67063e1be4d140
+cc-mono-off|cc photo 512 64 27 Off 1|e2bb6e41b637120b6ffae857fd0749ac82cb870fb16d0da975f6ba3a992e8ce6
+job-default|job 1200 1600 3 30 1 PageSize=A4|c4d3e12247fd617f4394dc09b63fa64a4984bef8b5a2e82de151fe081f60c4b1
+job-copies|job 1200 1600 2 31 3 PageSize=A4 Collate=False|465a2a2d99a816f41e44b632fdbd787b15caf4edcb0a89f3457e5a707fb90ca6
+job-collate|job 1200 1600 2 32 2 PageSize=A4 Collate=True|f9f67af47dbf495e5e8bfa2865d35f270fc980d57513ef5a2b908c181625c123
+job-mono|job 1200 1600 3 33 1 XRColorMode=Black XRScreen2=Fineness|d948420a0ec68b80426f2a35f0d712c64778e0b3a0db8bc0d572d4743ac9383f
+job-options|job 1200 1600 3 34 1 XRDocumentType=Photo XRTonerSaver=True XRSkip=True XRTurnPage=True MediaType=LabelPaper XRColorDensityMagentaMid=+2|e89728b5fc6eb70866871db1339b0668eca230f23e1a68efd7b07aef77745f75
+job-letter|job 1250 1550 1 35 1 PageSize=Letter XRDocumentType=Off|ec009a3535a136940e2e33008dc4da6a71842a41e299cab28eb34e96014657f6
