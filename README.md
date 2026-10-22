@@ -249,6 +249,10 @@ Build note: `-ffp-contract=off` is required (otherwise aarch64 fuses multiply-ad
 and the results differ), and the colour matrix is computed through volatile
 products. A checksum self-test of the tables runs at start-up.
 
+## License
+
+Released under the [MIT License](LICENSE).
+
 ## Legal notes
 
 This is an independent, unofficial project and is not affiliated with Dell,
